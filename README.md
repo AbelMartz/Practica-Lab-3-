@@ -1,2 +1,10 @@
 # Practica-Lab-3-
-//Hello world 
+#include<iostream>
+using namcespace std;
+
+int main(){
+
+  return 0;
+}
+  
+  
